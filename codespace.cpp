@@ -1,19 +1,9 @@
 #include <iostream>
-#include <string>
-using namespace std;
+#include <fstream>
 
 
 
 int main(){
-
-    // Ex 1
-
-    // int n;
-    // cout << "Enter a number: ";
-    // cin >> n;
-    // n % 2 == 0 ? cout << "Even" : cout << "Odd";
-
-    // Ex 2
 
     
 
