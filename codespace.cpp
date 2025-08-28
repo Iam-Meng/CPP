@@ -17,7 +17,7 @@ void displayInfo(string name, int id, double gpa){
 int main(){
 
     Student student;
-    student.name = "Sakal";
+    student.name = "Sakal pong toch";
     student.id = 1234;
     student.gpa = 3.14;
 
